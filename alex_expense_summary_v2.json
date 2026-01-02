@@ -1,0 +1,376 @@
+{
+  "currency": "KES",
+  "date_range": {
+    "start": "2024-01-14",
+    "end": "2024-05-26"
+  },
+  "kpis": {
+    "total_spend": 120208.0,
+    "transactions": 60,
+    "avg_txn": 2003.4666666666667,
+    "median_txn": 500.0,
+    "highest_month": {
+      "month": "2024-01",
+      "amount": 43108.0
+    },
+    "lowest_month": {
+      "month": "2024-04",
+      "amount": 7000.0
+    }
+  },
+  "by_type": [
+    {
+      "type": "Rent",
+      "amount": 38000.0,
+      "share_pct": 31.6
+    },
+    {
+      "type": "Tithe",
+      "amount": 34000.0,
+      "share_pct": 28.3
+    },
+    {
+      "type": "Car",
+      "amount": 27040.0,
+      "share_pct": 22.5
+    },
+    {
+      "type": "Food",
+      "amount": 6200.0,
+      "share_pct": 5.2
+    },
+    {
+      "type": "Internet",
+      "amount": 5998.0,
+      "share_pct": 5.0
+    },
+    {
+      "type": "Airtime",
+      "amount": 2400.0,
+      "share_pct": 2.0
+    },
+    {
+      "type": "Token",
+      "amount": 2000.0,
+      "share_pct": 1.7
+    },
+    {
+      "type": "House",
+      "amount": 1720.0,
+      "share_pct": 1.4
+    },
+    {
+      "type": "NHIF",
+      "amount": 1000.0,
+      "share_pct": 0.8
+    },
+    {
+      "type": "Grooming",
+      "amount": 650.0,
+      "share_pct": 0.5
+    },
+    {
+      "type": "Contribution",
+      "amount": 500.0,
+      "share_pct": 0.4
+    },
+    {
+      "type": "Miscelleneous",
+      "amount": 400.0,
+      "share_pct": 0.3
+    },
+    {
+      "type": "Offering",
+      "amount": 300.0,
+      "share_pct": 0.2
+    }
+  ],
+  "by_payment": [
+    {
+      "payment_type": "Mpesa",
+      "amount": 97828.0,
+      "share_pct": 81.4
+    },
+    {
+      "payment_type": "Visa",
+      "amount": 22380.0,
+      "share_pct": 18.6
+    }
+  ],
+  "by_merchant": [
+    {
+      "merchant": "Home",
+      "amount": 51948.0
+    },
+    {
+      "merchant": "Nairobi Chapel",
+      "amount": 34300.0
+    },
+    {
+      "merchant": "Shell",
+      "amount": 22980.0
+    },
+    {
+      "merchant": "Love Dale Butchery",
+      "amount": 2250.0
+    },
+    {
+      "merchant": "Total",
+      "amount": 2000.0
+    },
+    {
+      "merchant": "Pizza Inn",
+      "amount": 1390.0
+    },
+    {
+      "merchant": "Dupoint Lounge",
+      "amount": 1160.0
+    },
+    {
+      "merchant": "Naivasha Road",
+      "amount": 1000.0
+    },
+    {
+      "merchant": "Rockwell Service Station",
+      "amount": 1000.0
+    },
+    {
+      "merchant": "Fish Pit Hub",
+      "amount": 600.0
+    },
+    {
+      "merchant": "Kisii Contribution",
+      "amount": 500.0
+    },
+    {
+      "merchant": "Greenview Restaurant",
+      "amount": 400.0
+    },
+    {
+      "merchant": "Karura Forest",
+      "amount": 400.0
+    },
+    {
+      "merchant": "LeoFresh",
+      "amount": 220.0
+    },
+    {
+      "merchant": "Junction Mall",
+      "amount": 60.0
+    }
+  ],
+  "top_merchants": [
+    {
+      "merchant": "Home",
+      "amount": 51948.0
+    },
+    {
+      "merchant": "Nairobi Chapel",
+      "amount": 34300.0
+    },
+    {
+      "merchant": "Shell",
+      "amount": 22980.0
+    },
+    {
+      "merchant": "Love Dale Butchery",
+      "amount": 2250.0
+    },
+    {
+      "merchant": "Total",
+      "amount": 2000.0
+    },
+    {
+      "merchant": "Pizza Inn",
+      "amount": 1390.0
+    },
+    {
+      "merchant": "Dupoint Lounge",
+      "amount": 1160.0
+    },
+    {
+      "merchant": "Naivasha Road",
+      "amount": 1000.0
+    },
+    {
+      "merchant": "Rockwell Service Station",
+      "amount": 1000.0
+    },
+    {
+      "merchant": "Fish Pit Hub",
+      "amount": 600.0
+    }
+  ],
+  "by_area": [
+    {
+      "area": "Kikuyu Road",
+      "amount": 54198.0
+    },
+    {
+      "area": "Ngong road",
+      "amount": 34300.0
+    },
+    {
+      "area": "Baraka Waiyaki way",
+      "amount": 7980.0
+    },
+    {
+      "area": "Dagoretti",
+      "amount": 5000.0
+    },
+    {
+      "area": "Dagoretti ,Kikuyu",
+      "amount": 3000.0
+    },
+    {
+      "area": "Ruiru Junction",
+      "amount": 2000.0
+    },
+    {
+      "area": "Northlands",
+      "amount": 2000.0
+    },
+    {
+      "area": "waiyaki way westlands Supreme",
+      "amount": 2000.0
+    },
+    {
+      "area": "Kamiti Road",
+      "amount": 2000.0
+    },
+    {
+      "area": "Junction Mall",
+      "amount": 1450.0
+    },
+    {
+      "area": "City market",
+      "amount": 1160.0
+    },
+    {
+      "area": "Naivasha Road",
+      "amount": 1000.0
+    },
+    {
+      "area": "Yaya",
+      "amount": 1000.0
+    },
+    {
+      "area": "srvice station",
+      "amount": 1000.0
+    },
+    {
+      "area": "Bypass Kihunguro",
+      "amount": 600.0
+    },
+    {
+      "area": "Kisii",
+      "amount": 500.0
+    },
+    {
+      "area": "Karura",
+      "amount": 400.0
+    },
+    {
+      "area": "Restaraunt",
+      "amount": 400.0
+    },
+    {
+      "area": "kikuyu road",
+      "amount": 220.0
+    }
+  ],
+  "top_areas": [
+    {
+      "area": "Kikuyu Road",
+      "amount": 54198.0
+    },
+    {
+      "area": "Ngong road",
+      "amount": 34300.0
+    },
+    {
+      "area": "Baraka Waiyaki way",
+      "amount": 7980.0
+    },
+    {
+      "area": "Dagoretti",
+      "amount": 5000.0
+    },
+    {
+      "area": "Dagoretti ,Kikuyu",
+      "amount": 3000.0
+    },
+    {
+      "area": "Ruiru Junction",
+      "amount": 2000.0
+    },
+    {
+      "area": "Northlands",
+      "amount": 2000.0
+    },
+    {
+      "area": "waiyaki way westlands Supreme",
+      "amount": 2000.0
+    },
+    {
+      "area": "Kamiti Road",
+      "amount": 2000.0
+    },
+    {
+      "area": "Junction Mall",
+      "amount": 1450.0
+    }
+  ],
+  "shell_by_station": [
+    {
+      "station": "Baraka Waiyaki way",
+      "amount": 7980.0
+    },
+    {
+      "station": "Dagoretti",
+      "amount": 5000.0
+    },
+    {
+      "station": "Dagoretti ,Kikuyu",
+      "amount": 3000.0
+    },
+    {
+      "station": "Kamiti Road",
+      "amount": 2000.0
+    },
+    {
+      "station": "Northlands",
+      "amount": 2000.0
+    },
+    {
+      "station": "waiyaki way westlands Supreme",
+      "amount": 2000.0
+    },
+    {
+      "station": "Yaya",
+      "amount": 1000.0
+    }
+  ],
+  "monthly_totals": [
+    {
+      "month": "2024-01",
+      "amount": 43108.0
+    },
+    {
+      "month": "2024-02",
+      "amount": 15220.0
+    },
+    {
+      "month": "2024-03",
+      "amount": 42900.0
+    },
+    {
+      "month": "2024-04",
+      "amount": 7000.0
+    },
+    {
+      "month": "2024-05",
+      "amount": 11980.0
+    }
+  ]
+}
